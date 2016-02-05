@@ -4,16 +4,16 @@
 
 module.exports = [
   {
-    id: 'fadeit', // Will be appended to the built templates.
-    signature: 'Yours truly,',
-    name: 'Jane Whatsmyname',
-    welcome: 'Hi there,',
-    introParagraph: 'Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.',
-    contactMain: 'Call <a href="tel:81100200"><span>81100200</span></a> or email us at', // Wrap phone numbers like this to prevent iOS mail from making them blue.
-    contactMail: 'info@fadeit.dk',
-    contactSecondary: 'Anelystparken 31, DK-8381 Tilst, Aarhus',
-    logoUrl: 'http://fadeit.dk/src/assets/img/brand/fadeit-logo.png',
-    logoAlt: 'fadeit logo',
-    website: 'http://fadeit.dk'
+    id: 'vtg', // Will be appended to the built templates.
+    signature: 'Met vriendelijke groet,',
+    name: 'Arjan de Waard',
+    welcome: 'Geachte heer/ mevrouw,',
+    introParagraph: '<br>',
+    contactMain: 'U kunt ons bereiken op telefoonnummer <a href="tel:0031251744027"><span>+31 (0) 251 - 744 027</span></a> of stuur een email naar ', // Wrap phone numbers like this to prevent iOS mail from making them blue.
+    contactMail: 'info@vtgboren-zagen.nl',
+    contactSecondary: '<strong>VTG Boren &amp; Zagen B.V.</strong><br><br>Rooswijkweg 216<br>1951 MD  Velsen-Noord<br>Nederland',
+    logoUrl: 'assets/vtg-logo.png',
+    logoAlt: 'VTG Boren & Zagen B.V.',
+    website: 'http://www.vtgboren-zagen.nl'
   }
 ]
